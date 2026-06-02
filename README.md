@@ -1,6 +1,6 @@
 # SciPy 2026 tutorial: Thinking in Arrays
 
-This repository contains everything you need to follow the "[Thinking in Arrays](https://pretalx.com/scipy-2026/talk/review/SFQGD8SV7KEVSBRQZNFUTFFS3WNHCJY7)" tutorial, presented at the [SciPy 2026](https://www.scipy2026.scipy.org/) conference on Tuesday, July 14, 2026.
+This repository contains everything you need to follow the "[Thinking in Arrays](https://pretalx.com/scipy-2026/talk/GRTY3K/)" tutorial, presented at the [SciPy 2026](https://www.scipy2026.scipy.org/) conference on [Tuesday, July 14, 2026 8 a.m.–12 p.m.](https://pretalx.com/scipy-2026/talk/GRTY3K/).
 
 ## Internet connectivity
 
