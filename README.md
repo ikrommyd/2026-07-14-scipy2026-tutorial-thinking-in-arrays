@@ -107,5 +107,4 @@ https://mybinder.org/v2/gh/ikrommyd/2026-07-14-scipy2026-tutorial-thinking-in-ar
 * **3:15‒3:35 (20 min)** Project 4: Exploring data in ragged arrays. Compute path lengths of taxi trips from Parquet files.
 * **3:35‒3:45 (10 min)** Break.
 * **3:45‒4:00 (15 min)** Solutions to project 4.
-
 * **Bonus** Part 5: Working with large datasets. What to do when arrays no longer fit comfortably in memory: chunked parallel arrays with Dask, chunked compressed storage with Zarr, fast compression and lazy expressions with Blosc2, and labeled dimensions with xarray.
